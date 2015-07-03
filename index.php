@@ -1,2 +1,2 @@
 
-<? Php include_once ("index.html"); ?>
+<? Php include_once ("home.html"); ?>
